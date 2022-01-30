@@ -1,0 +1,16 @@
+1_A_Man_City_E
+2_A_PSG_F
+1_B_Liverpool_E
+2_B_Atletico_Madryt_S
+1_C_Ajax_Amsterdam_N
+2_C_Sporting_CP_P
+1_D_Real_Madryt_S
+2_D_Inter_I
+1_E_Bayern_G
+2_E_Benfica_P
+1_F_Man_Utd_E
+2_F_Villareal_S
+1_G_Lille_F
+2_G_RB_Salzburg_A
+1_H_Juventus_I
+2_H_Chelsea_E
